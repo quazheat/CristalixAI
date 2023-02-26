@@ -3,5 +3,5 @@
 Бинды:
 
 INSERT - перезагрузка словаря.
-PAGE UP
-PAGE DOWN
+PAGE UP = /warn
+PAGE DOWN = /mute
